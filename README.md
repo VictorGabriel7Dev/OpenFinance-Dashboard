@@ -4,9 +4,9 @@
 
 > Visão unificada de contas, cartões de crédito e autorizações Pix do OpenFinance — direto no desktop, em C++.
 
-![OpenFinance Dashboard](OpenFinance-Dashboard-2026_03_27-18_09_43.png)
-![OpenFinance Dashboard](OpenFinance-Dashboard-2026_03_27-18_09_37.png)
 ![OpenFinance Dashboard](OpenFinance-Dashboard-2026_03_27-18_09_31.png)
+![OpenFinance Dashboard](OpenFinance-Dashboard-2026_03_27-18_09_37.png)
+![OpenFinance Dashboard](OpenFinance-Dashboard-2026_03_27-18_09_43.png)
 
 ---
 
