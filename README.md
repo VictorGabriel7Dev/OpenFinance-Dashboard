@@ -81,7 +81,6 @@ Geração de relatório completo com todas as informações de todos os bancos, 
 
 **Victor Gabriel**  
 · [victorgabriel.dev](https://victorgabriel.dev)  
-· [victorgabriel.dev.br](https://victorgabriel.dev.br)  
 · GitHub: [github.com/VictorGabriel7Dev](https://github.com/VictorGabriel7Dev)  
 · LinkedIn: [in/victorgabriel-dev](https://www.linkedin.com/in/victorgabriel-dev)  
 · Discord: `@VictorGabriel.dev`  
