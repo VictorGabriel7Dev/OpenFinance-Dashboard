@@ -2,6 +2,8 @@
 
 # OpenFinance Dashboard — Consolidador Financeiro Multi-Banco
 
+![C++](https://img.shields.io/badge/-C++-2ea44f?style=flat&logo=cplusplus&logoColor=white) ![OpenFinance Brasil](https://img.shields.io/badge/-OpenFinance%20Brasil-1f9bcf?style=flat) ![Linux · Windows](https://img.shields.io/badge/-Linux%20%C2%B7%20Windows-dfb317?style=flat) ![Desktop nativo](https://img.shields.io/badge/-Desktop%20nativo-555555?style=flat)
+
 > Visão unificada de contas, cartões de crédito e autorizações Pix do OpenFinance — direto no desktop, em C++.
 
 ![OpenFinance Dashboard](OpenFinance-Dashboard-2026_03_27-18_09_31.png)
