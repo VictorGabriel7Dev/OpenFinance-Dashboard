@@ -85,6 +85,7 @@ Geração de relatório completo com todas as informações de todos os bancos, 
 · [victorgabriel.dev](https://victorgabriel.dev)  
 · GitHub: [github.com/VictorGabriel7Dev](https://github.com/VictorGabriel7Dev)  
 · LinkedIn: [in/victorgabriel-dev](https://www.linkedin.com/in/victorgabriel-dev)  
+· WhatsApp: `@VictorGabriel_dev`  
 · Discord: `@VictorGabriel.dev`  
 · Telegram: [t.me/VictorGabriel_Dev](https://t.me/VictorGabriel_Dev)  
 · E-mail: contato@victorgabriel.dev  
