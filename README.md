@@ -41,12 +41,22 @@ Ideal para uso corporativo, gestão patrimonial, tesouraria e qualquer cenário 
 ### Contas PF e PJ
 Consolidação entre contas Pessoas Física (CPF) e contas Pessoas Jurídica (CNPJ).
 
-### Visão consolidada por banco
-Cada instituição financeira é exibida em um widget individual contendo:
+### Três visões da mesma base
+A mesma consolidação pode ser exibida em três layouts, alternáveis a qualquer momento:
+
+| Visão | Uso |
+|---|---|
+| **Painel** | Tabela densa agrupada por banco, com totalizadores no topo e extrato expansível conta a conta |
+| **Foco** | Lista de bancos à esquerda e o detalhe completo da instituição selecionada à direita |
+| **Resumo** | Cartões visuais com patrimônio total, distribuição por banco e blocos de contas e cartões |
+
+### Dados por instituição
+Cada instituição financeira exibe:
 
 - **Contas:** número da conta, tipo (corrente, poupança, pagamento) e saldo
 - **Cartões de crédito:** número do cartão, bandeira (Visa, Mastercard, Elo, American Express), limite total e saldo atual
 - **Pix:** indicação de autorização de uso e em qual conta está vinculada
+- **Permissões:** quais consentimentos estão ativos naquela instituição
 
 ### Totalizadores globais
 Exibidos automaticamente no topo da tela:
@@ -60,6 +70,7 @@ Permite alternar rapidamente entre visões:
 
 | Filtro | Descrição |
 |---|---|
+| **CPF · PJ** | Alterna entre a sessão Pessoa Física, a Pessoa Jurídica ou ambas somadas |
 | **Tudo** | Exibe todos os bancos vinculados |
 | **Contas** | Apenas bancos com ao menos uma conta ativa |
 | **Cartões** | Apenas bancos com ao menos um cartão de crédito |
@@ -67,7 +78,13 @@ Permite alternar rapidamente entre visões:
 | **Favoritos** | Bancos marcados manualmente como favoritos |
 
 ### Extrato recente
-Exibição e ocultação do extrato recente de todas as contas com um único comando.
+Exibição e ocultação do extrato recente de todas as contas com um único comando. As transações capturadas ficam arquivadas localmente, então o histórico permanece disponível mesmo quando a instituição deixa de retorná-lo.
+
+### Atualização sob demanda
+Cada banco, conta e cartão pode ser recarregado individualmente, e cada item mostra a data e a hora da sua última atualização.
+
+### Tema e privacidade
+Alternância entre tema claro e escuro, e um modo que oculta todos os valores monetários — útil para apresentações, suporte e capturas de tela.
 
 ### Relatório exportável
 Geração de relatório completo com todas as informações de todos os bancos, contas e cartões de crédito — pronto para auditoria, conciliação ou arquivamento.
@@ -81,7 +98,8 @@ Geração de relatório completo com todas as informações de todos os bancos, 
 | Linguagem | C++ |
 | Plataformas | Linux · Windows |
 | Integração | OpenFinance Brasil |
-| Interface | Desktop nativo |
+| Interface | Desktop nativo (Qt6) |
+| Armazenamento | Cache local para reabertura instantânea e histórico persistente |
 | Exportação | Relatório em arquivo |
 
 ---
