@@ -6,9 +6,25 @@
 
 > Visão unificada de contas, cartões de crédito e autorizações Pix do OpenFinance — direto no desktop, em C++.
 
-![OpenFinance Dashboard](OpenFinance-Dashboard-2026_03_27-18_09_31.png)
-![OpenFinance Dashboard](OpenFinance-Dashboard-2026_03_27-18_09_37.png)
-![OpenFinance Dashboard](OpenFinance-Dashboard-2026_03_27-18_09_43.png)
+### Resumo — patrimônio consolidado, distribuição por banco e contas
+![Resumo — patrimônio total, distribuição por banco e contas](OpenFinance-Dashboard-2026_07_23-08_34_16.png)
+
+### Resumo — cartões de crédito
+![Resumo — cartões de crédito com limite e saldo](OpenFinance-Dashboard-2026_07_23-08_34_25.png)
+
+### Painel — tabela densa com totalizadores
+![Painel — tabela por banco com totalizadores no topo](OpenFinance-Dashboard-2026_07_23-08_35_58.png)
+
+### Painel — extrato recente por conta
+![Painel — extrato recente expandido por conta](OpenFinance-Dashboard-2026_07_23-08_37_02.png)
+
+### Foco — detalhe do banco: contas, cartões e faturas
+![Foco — detalhe do banco com permissões, contas, cartões e histórico de faturas](OpenFinance-Dashboard-2026_07_23-08_35_14.png)
+
+### Foco — histórico de faturas e extrato (tema escuro)
+![Foco — histórico de faturas e extrato recente em tema escuro](OpenFinance-Dashboard-2026_07_23-08_35_45.png)
+
+> Capturas com os valores ocultos pelo modo de privacidade embutido.
 
 ---
 
