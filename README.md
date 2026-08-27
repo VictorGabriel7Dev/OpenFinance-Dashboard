@@ -1,28 +1,28 @@
 [📄 Página](https://victorgabriel.dev/projetos/OpenFinance-Dashboard) · [💻 GitHub](https://github.com/VictorGabriel7Dev/OpenFinance-Dashboard)
 
-# OpenFinance Dashboard — Consolidador Financeiro Multi-Banco
+# OpenFinance Dashboard · Consolidador Financeiro Multi-Banco
 
 ![C++](https://img.shields.io/badge/-C++-2ea44f?style=flat&logo=cplusplus&logoColor=white) ![OpenFinance Brasil](https://img.shields.io/badge/-OpenFinance%20Brasil-1f9bcf?style=flat) ![Linux · Windows](https://img.shields.io/badge/-Linux%20%C2%B7%20Windows-dfb317?style=flat) ![Desktop nativo](https://img.shields.io/badge/-Desktop%20nativo-555555?style=flat)
 
-> Visão unificada de contas, cartões de crédito e autorizações Pix do OpenFinance — direto no desktop, em C++.
+> Visão unificada de contas, cartões de crédito e autorizações Pix do OpenFinance, direto no desktop, em C++.
 
-### Resumo — patrimônio consolidado, distribuição por banco e contas
-![Resumo — patrimônio total, distribuição por banco e contas](OpenFinance-Dashboard-2026_07_23-08_34_16.png)
+### Resumo: patrimônio consolidado, distribuição por banco e contas
+![Resumo: patrimônio total, distribuição por banco e contas](OpenFinance-Dashboard-2026_07_23-08_34_16.png)
 
-### Resumo — cartões de crédito
-![Resumo — cartões de crédito com limite e saldo](OpenFinance-Dashboard-2026_07_23-08_34_25.png)
+### Resumo: cartões de crédito
+![Resumo: cartões de crédito com limite e saldo](OpenFinance-Dashboard-2026_07_23-08_34_25.png)
 
-### Painel — tabela densa com totalizadores
-![Painel — tabela por banco com totalizadores no topo](OpenFinance-Dashboard-2026_07_23-08_35_58.png)
+### Painel: tabela densa com totalizadores
+![Painel: tabela por banco com totalizadores no topo](OpenFinance-Dashboard-2026_07_23-08_35_58.png)
 
-### Painel — extrato recente por conta
-![Painel — extrato recente expandido por conta](OpenFinance-Dashboard-2026_07_23-08_37_02.png)
+### Painel: extrato recente por conta
+![Painel: extrato recente expandido por conta](OpenFinance-Dashboard-2026_07_23-08_37_02.png)
 
-### Foco — detalhe do banco: contas, cartões e faturas
-![Foco — detalhe do banco com permissões, contas, cartões e histórico de faturas](OpenFinance-Dashboard-2026_07_23-08_35_14.png)
+### Foco no banco: contas, cartões e faturas
+![Foco: detalhe do banco com permissões, contas, cartões e histórico de faturas](OpenFinance-Dashboard-2026_07_23-08_35_14.png)
 
-### Foco — histórico de faturas e extrato (tema escuro)
-![Foco — histórico de faturas e extrato recente em tema escuro](OpenFinance-Dashboard-2026_07_23-08_35_45.png)
+### Foco: histórico de faturas e extrato (tema escuro)
+![Foco: histórico de faturas e extrato recente em tema escuro](OpenFinance-Dashboard-2026_07_23-08_35_45.png)
 
 > Capturas com os valores ocultos pelo modo de privacidade embutido.
 
@@ -30,7 +30,7 @@
 
 ## O que é
 
-Software desenvolvido em **C++** para **Linux e Windows** que consome dados do ecossistema **OpenFinance** e consolida, em uma única tela, todas as informações financeiras de todos os bancos vinculados — contas, cartões de crédito e autorizações Pix.
+Software desenvolvido em **C++** para **Linux e Windows** que consome dados do ecossistema **OpenFinance** e consolida, em uma única tela, todas as informações financeiras de todos os bancos vinculados: contas, cartões de crédito e autorizações Pix.
 
 Ideal para uso corporativo, gestão patrimonial, tesouraria e qualquer cenário onde visibilidade financeira consolidada é crítica.
 
@@ -84,10 +84,10 @@ Exibição e ocultação do extrato recente de todas as contas com um único com
 Cada banco, conta e cartão pode ser recarregado individualmente, e cada item mostra a data e a hora da sua última atualização.
 
 ### Tema e privacidade
-Alternância entre tema claro e escuro, e um modo que oculta todos os valores monetários — útil para apresentações, suporte e capturas de tela.
+Alternância entre tema claro e escuro, e um modo que oculta todos os valores monetários, útil para apresentações, suporte e capturas de tela.
 
 ### Relatório exportável
-Geração de relatório completo com todas as informações de todos os bancos, contas e cartões de crédito — pronto para auditoria, conciliação ou arquivamento.
+Geração de relatório completo com todas as informações de todos os bancos, contas e cartões de crédito, pronto para auditoria, conciliação ou arquivamento.
 
 ---
 
