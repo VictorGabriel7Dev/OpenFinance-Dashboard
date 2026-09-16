@@ -6,6 +6,14 @@
 
 > Visão unificada de contas, cartões de crédito e autorizações Pix do OpenFinance, direto no desktop, em C++.
 
+## O que é
+
+Software desenvolvido em **C++** para **Linux e Windows** que consome dados do ecossistema **OpenFinance** e consolida, em uma única tela, todas as informações financeiras de todos os bancos vinculados: contas, cartões de crédito e autorizações Pix.
+
+Ideal para uso corporativo, gestão patrimonial, tesouraria e qualquer cenário onde visibilidade financeira consolidada é crítica.
+
+---
+
 ### Resumo: patrimônio consolidado, distribuição por banco e contas
 ![Resumo: patrimônio total, distribuição por banco e contas](OpenFinance-Dashboard-2026_07_23-08_34_16.png)
 
@@ -25,14 +33,6 @@
 ![Foco: histórico de faturas e extrato recente em tema escuro](OpenFinance-Dashboard-2026_07_23-08_35_45.png)
 
 > Capturas com os valores ocultos pelo modo de privacidade embutido.
-
----
-
-## O que é
-
-Software desenvolvido em **C++** para **Linux e Windows** que consome dados do ecossistema **OpenFinance** e consolida, em uma única tela, todas as informações financeiras de todos os bancos vinculados: contas, cartões de crédito e autorizações Pix.
-
-Ideal para uso corporativo, gestão patrimonial, tesouraria e qualquer cenário onde visibilidade financeira consolidada é crítica.
 
 ---
 
@@ -113,6 +113,10 @@ Geração de relatório completo com todas as informações de todos os bancos, 
 
 ---
 
+## Palavras-chave
+
+`openfinance` `open-banking` `open-finance-brasil` `consolidador-financeiro` `multi-banco` `gestao-financeira` `cartao-de-credito` `pix` `linux` `windows` `banking` `financial-dashboard`
+
 ## Autor
 
 **Victor Gabriel**  
@@ -126,7 +130,3 @@ Geração de relatório completo com todas as informações de todos os bancos, 
 · E-mail: contato@victorgabriel.dev  
 
 ---
-
-## Palavras-chave
-
-`openfinance` `open-banking` `open-finance-brasil` `consolidador-financeiro` `multi-banco` `gestao-financeira` `cartao-de-credito` `pix` `linux` `windows` `banking` `financial-dashboard`
